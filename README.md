@@ -22,4 +22,6 @@ DIV(number1, number2 XLuint) -> XLuint,\
 MOD(number, modulus XLuint) -> XLuint,\
 POW(number, modulus XLuint, power uint) -> XLuint \[Піднесення в степінь за модулем]\
 \
+Файл XLuint_test.go використовується для тестування бібліотеки. (Тестуються функції INV, XOR, OR, AND, ADD, SUB, MUL)\
+\
 Зроблено в якості домашнього завдання для курсу Cryptography for Developers від Distributed Lab.
