@@ -24,4 +24,6 @@ POW(number, modulus XLuint, power uint) -> XLuint \[Піднесення в ст
 \
 Файл XLuint_test.go використовується для тестування бібліотеки. (Тестуються функції INV, XOR, OR, AND, ADD, SUB, MUL)\
 \
+Імпорт бібліотеки: go get github.com/Zaptoss/XLuint\
+\
 Зроблено в якості домашнього завдання для курсу Cryptography for Developers від Distributed Lab.
